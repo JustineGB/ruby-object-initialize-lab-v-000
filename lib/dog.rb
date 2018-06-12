@@ -13,7 +13,7 @@ def name
 	end
 
   def initialize(breed)
-   @nbreed = breed
+   @breed = breed
   end
 
   def breed=(breed)
