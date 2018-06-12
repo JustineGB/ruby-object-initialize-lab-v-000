@@ -4,7 +4,7 @@ def initialize(name)
  @name = name
 end
 
-def name=(bname)
+def name=(name)
  @name = name
 	end
 
